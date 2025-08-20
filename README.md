@@ -34,6 +34,7 @@
 🔹 Atualmente trabalho como **Desenvolvedor Web (Laravel)**  
 🔹 Experiência com **automação de processos** usando Python  
 🔹 Criação de **sistemas desktop** com Flet  
+🔹 UI/UIX  
 🔹 Desenvolvimento de **Landing Pages** e projetos responsivos  
 
 ---
